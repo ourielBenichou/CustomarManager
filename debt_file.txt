@@ -1,0 +1,11 @@
+first name=ouriel,last name=benichou,ID=021667555,phone=0502795915,debt=300,date=12/12/2000
+first name=yakov,last name=yosf,ID=123456789,phone=0502795915,debt=100,date=12/12/2021
+first name=avram,last name=buzaglo,ID=021667555,phone=0502795915,debt=50,date=1/8/2020
+first name=yusi,last name=benyosi,ID=342567245,phone=0502795915,debt=1000,date=12/5/2014
+first name=moshe,last name=ben david,ID=342345621,phone=0502795915,debt=140,date=12/3/1999
+first name=ahron,last name=cohen,ID=777777777,phone=0502795915,debt=500,date=12/5/2022
+first name=haim,last name=libovits,ID=025678456,phone=0502795915,debt=800,date=12/7/2015
+first name=yahir,last name=borstian,ID=876342657,phone=0502795915,debt=1700,date=12/10/2010
+first name=yahir,last name=borstian,ID=876342657,phone=0502795915,date=12/10/2010,debt=3400
+first name=alex,last name=demitry,ID=876888342,phone=0503335915,date=12/10/1990,debt=5400
+first name=ouriel,last name=benichou,ID=021667555,phone=0502795915,date=10/12/1985,debt=-100
